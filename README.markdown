@@ -13,6 +13,8 @@ All you need to do is to configure your OAuth identity:
 
 That's it? Yep!
 
+### Make sure you have the `sinatra` gem installed.
+
 Now you can give it a spin:
 
     ruby facebook-oauth-example.rb
